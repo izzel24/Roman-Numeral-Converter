@@ -3,7 +3,7 @@
 This project is part of the FreeCodeCamp Certification program, showcasing a Roman Numeral Converter built with vanilla JavaScript. The converter takes a numeric input and returns its equivalent Roman numeral, adhering to the rules of Roman numeral representation.
 
 ## Project Screenshot 📸
-![Project Screenshot](https://raw.githubusercontent.com/izzel24/Roman-Numeral-Converter/main/screenshot_project.png)
+![Project Screenshot](https://raw.githubusercontent.com/izzel24/Roman-Numeral-Converter/refs/heads/main/screenshot_project.png)
 
 ## Live Demo 🚀
 Check out the live demo of the project here: [Roman Numeral Converter](https://izzel24.github.io/Roman-Numeral-Converter/)
